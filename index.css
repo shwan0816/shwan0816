@@ -2,6 +2,10 @@
     background: #fff;
 }
 
+.c {
+    text-decoration: none;
+}
+
 .dropdown {
   background-color: #ffffff;
   position: relative;
